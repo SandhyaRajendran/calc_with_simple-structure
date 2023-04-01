@@ -1,0 +1,28 @@
+.mainContainer{
+    background-color: white;
+    padding: 5%;
+    margin: 6%;
+    border: 1px solid black;
+}
+.header{
+    text-align: center;
+    margin: 4%;
+}
+label{
+    padding: 1%;
+}
+.allInputs{
+    display: flex;
+}
+input::placeholder{
+    padding: 2%;
+}
+.submit{
+    padding: 3%;
+    font-size: 25px;
+}
+.button{
+    margin-left: 425px;
+    margin-top: 25px;
+    padding: 8px;
+}
